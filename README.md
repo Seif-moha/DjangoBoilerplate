@@ -1,1 +1,1 @@
-# DjangoBoilerplate
+# Library management system
